@@ -2,6 +2,7 @@
 
 /**
  * The PHP class for vk.com API and to support OAuth.
+ * @author Sanasol <mail@sanasol.ws>
  * @author Vlad Pronsky <vladkens@yandex.ru>
  * @license https://raw.github.com/vladkens/VK/master/LICENSE MIT
  */

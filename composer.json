@@ -6,12 +6,12 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Vlad Pronsky",
-            "email": "vladkens@yandex.ru"
-        },
-        {
             "name": "S-anasol",
             "email": "mail@sanasol.ws"
+        },
+        {
+            "name": "Vlad Pronsky",
+            "email": "vladkens@yandex.ru"
         }
     ],
     "support": {
