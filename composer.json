@@ -1,19 +1,22 @@
 {
-    "name": "vladkens/vk",
+    "name": "s-anasol/vk",
     "type": "library",
     "description": "The PHP class for vk.com API with support OAuth.",
-    "keywords": ["vk", "vk.com", "api", "oauth"],
+    "keywords": ["vk", "vk.com", "api", "oauth", "proxy", "antigate", "captcha"],
     "license": "MIT",
     "authors": [
         {
             "name": "Vlad Pronsky",
             "email": "vladkens@yandex.ru"
+        },
+        {
+            "name": "S-anasol",
+            "email": "mail@sanasol.ws"
         }
     ],
     "support": {
-        "email": "vladkens@yandex.ru",
-        "issues": "https://github.com/vladkens/VK/issues",
-        "source": "https://github.com/vladkens/VK"
+        "issues": "https://github.com/s-anasol/VK/issues",
+        "source": "https://github.com/s-anasol/VK"
     },
     "require": {
         "php": ">=5.3.0"
