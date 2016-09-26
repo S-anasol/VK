@@ -1,7 +1,7 @@
 {
     "name": "s-anasol/vk",
     "type": "library",
-    "description": "The PHP class for vk.com API with support OAuth.",
+    "description": "The PHP class for vk.com API. With HTTP proxy and captcha recognition via antigate support",
     "keywords": ["vk", "vk.com", "api", "oauth", "proxy", "antigate", "captcha"],
     "license": "MIT",
     "authors": [
