@@ -5,9 +5,9 @@ The PHP class for vk.com API and OAuth.
 Features: HTTP proxy, captcha recognition via antigate, api response timeout limit
 
 ### Use
-1. Connect class
+1. Install via composer
 
-        require('VK.php');
+        composer require s-anasol/vk
 
 2. Create VK object
     1. without authorization
