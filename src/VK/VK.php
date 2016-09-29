@@ -432,7 +432,7 @@ class VK
               }
               return false;
           }
-          $file = new CURLFile($filename);
+          $file = new \CURLFile($filename);
           $postdata = array(
               'method'    => 'post',
               'key'       => $apikey,
@@ -461,7 +461,6 @@ class VK
           if (strpos($result, "ERROR")!==false) {
               if ($is_verbose) {
                   echo "server returned error: $result\n";
-                  mail('mail@sanasol.ws', 'antigate', "server returned error: $result\n");
               }
               return false;
           } else {
